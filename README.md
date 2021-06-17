@@ -4,9 +4,9 @@ This repo contains a damned down version of the Storage Optimization routine.
 
 It is devided into 3 steps:
 
-Preperation
-Optimization
-Post-Processing
+* Preperation
+* Optimization
+* Post-Processing
 
 Scripts: landlord and compile will generate the landlord supply profiles and compile them with residential ones
 
